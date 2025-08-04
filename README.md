@@ -22,8 +22,7 @@
 
 ### 🚀 What I Do
 
-- 🔭 Currently building **AI-Powered Job Portals** and **Healthcare Platforms**
-- 🌱 Learning advanced **Machine Learning** and **Data Science**
+- 🔭 Currently on **Pre-joining Learning Path** at **Zignuts Technolab** as **SDE - Web Development**
 - 👨‍💻 Experienced in **MERN Stack** with **300+ problems solved**
 - 🎓 **Computer Science Engineering** student at **CHARUSAT**
 - 🏆 **National Finalist** at Odoo Combat 2024 (Top 50/2000+)
