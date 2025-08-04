@@ -22,7 +22,7 @@
 
 ### 🚀 What I Do
 
-- 🔭 Currently on **Pre-joining Learning Path** at **Zignuts Technolab** as **SDE - Web Development**
+- 🔭 Currently on **Pre-joining Learning Path** at **Zignuts Technolab** as **SDE**
 - 👨‍💻 Experienced in **MERN Stack** with **300+ problems solved**
 - 🎓 **Computer Science Engineering** student at **CHARUSAT**
 - 🏆 **National Finalist** at Odoo Combat 2024 (Top 50/2000+)
