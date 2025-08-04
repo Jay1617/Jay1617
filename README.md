@@ -1,5 +1,11 @@
 # 💫 About Me:
- I’m a passionate Full-Stack Developer and aspiring Software Engineer with a strong foundation in MERN stack development and a keen interest in building data-driven systems. I recently secured a position as a Software Development Engineer (SDE) at Zignuts Technolab, where I’m currently engaged in the pre-joining learning path.<br><br>My experience spans developing scalable web applications, integrating machine learning into real-world solutions, and working on complex frontend and backend systems. I’ve built AI-powered platforms, healthcare applications, and intelligent blogging systems—all designed to solve real-world problems efficiently.<br><br>I enjoy transforming innovative ideas into production-ready code and continuously strive to improve performance, user experience, and software quality. With a strong academic background and hands-on project experience, I’m eager to contribute to impactful, scalable software systems.
+🎯 Full-Stack Developer | 💻 Tech Enthusiast | 🤖 ML Explorer
+
+Hello! I'm a passionate and creative developer with a strong foundation in MERN stack development, deeply interested in building data-driven, AI-powered web applications. My journey in tech is fueled by curiosity, innovation, and a drive to solve real-world problems through scalable solutions.
+
+💡 Whether it's crafting responsive UIs, building robust backend APIs, or integrating machine learning models, I love turning ideas into fully functional digital products. From intelligent job portals to AI-enhanced healthcare platforms and sentiment-aware blogging systems, my work reflects both technical depth and a user-centric mindset.
+
+✨ I thrive at the intersection of technology and impact, and I'm constantly exploring new tools, frameworks, and patterns to elevate my craft. My goal is to build solutions that are not only efficient and elegant—but meaningful.
 
 
 ## 🌐 Socials:
