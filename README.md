@@ -7,7 +7,8 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Developer+%F0%9F%9A%80;Next.js+%2B+TypeScript+Specialist+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+
 </div>
 
 <div align="center">
@@ -162,7 +163,6 @@
 
 📍 **Location:** Gujarat, India  
 📧 **Email:** jaythummar1617@gmail.com  
-📱 **Phone:** +91-8154816617
 
 </div>
 
