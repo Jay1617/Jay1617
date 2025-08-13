@@ -170,28 +170,4 @@
 
 <br>
 
-## 💝 Support My Work
-
-<div align="center">
-
-If you like my projects and want to support my work, consider buying me a coffee! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jaythummar)
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-  
-### 🎯 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Jay1617&icon=6&color=6)
-
-**⭐ From [Jay1617](https://github.com/Jay1617) with ❤️**
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%">
